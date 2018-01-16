@@ -26,7 +26,7 @@ class ViewController: UIViewController {
         //nilをセットすると、何も動作しない
         alert.addAction(UIAlertAction(title: "OK", style: .default, handler: {action in
             
-            print("OK押されました")
+            print("OK押されましたよ")
             
         }))
         
